@@ -1,0 +1,27 @@
+
+.page,
+page {
+	color: #262626;
+  font-weight: 400;
+  font-size: 30rpx;
+  font-family: PingFangSC-Regular, Roboto, Helvetica Neue, Helvetica, Tahoma, Arial, PingFang SC-Light, Microsoft YaHei;
+  height: 100%;
+	background-color: #f6f4f5;
+  
+	/* 自定义样式变量 */
+  --text-color: #262626;
+  --text-color-3: #595959;
+  --text-color-6: #8c8c8c;
+  --text-active-color: #EAF8FF;
+	
+	--default-color: #3291F8;
+	--default-bg-color: rgba(86,119,252,0.1);
+	--default-text-color: #262626;
+	
+	--hot-color: #d5523b;
+	--dis-color: #dfdfdf;
+	--error-color: #ed3f14;
+	--warning-color:#ebab5d;
+	--border-color: #f5f5f5;
+	--line-color: #ededed;
+}
